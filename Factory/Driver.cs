@@ -15,6 +15,7 @@ namespace Homework_21.Factory
         {
             _driver?.Quit();
             _driver = null;
+            _wait = null;
         }
 
         private static IWebDriver SetupDriver() => new ChromeDriver(GetOptions());

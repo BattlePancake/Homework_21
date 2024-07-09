@@ -7,9 +7,10 @@ namespace Homework_21.Pages
     {
         protected static IWebDriver driver = Driver.GetDriver();
 
+
         public static void OpenPage()
         {
-            driver.Navigate().GoToUrl("https://demoqa.com/");
+            Driver.GetDriver().Navigate().GoToUrl("https://demoqa.com/");
         }
     }
 }
