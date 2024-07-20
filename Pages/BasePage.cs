@@ -1,7 +1,7 @@
-﻿using Homework_21.Factory;
+﻿using Homework_22.Factory;
 using OpenQA.Selenium;
 
-namespace Homework_21.Pages
+namespace Homework_22.Pages
 {
     internal class BasePage
     {

@@ -1,6 +1,6 @@
-﻿using Homework_21.Pages;
+﻿using Homework_22.Pages;
 
-namespace Homework_21.Tests
+namespace Homework_22.Tests
 {
     internal class ModalPageTest : BaseTest
     {

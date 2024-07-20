@@ -1,8 +1,8 @@
-﻿using Homework_21.Factory;
+﻿using Homework_22.Factory;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Interactions;
 
-namespace Homework_21.WebElements
+namespace Homework_22.WebElements
 {
     internal class Element
     {

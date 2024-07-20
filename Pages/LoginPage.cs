@@ -1,8 +1,8 @@
-﻿using Homework_21.Factory;
-using Homework_21.WebElements;
+﻿using Homework_22.Factory;
+using Homework_22.WebElements;
 using OpenQA.Selenium;
 
-namespace Homework_21.Pages
+namespace Homework_22.Pages
 {
     internal class LoginPage : BasePage
     {

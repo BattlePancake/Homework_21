@@ -2,7 +2,7 @@
 using OpenQA.Selenium.Support.UI;
 using OpenQA.Selenium;
 
-namespace Homework_21.Factory
+namespace Homework_22.Factory
 {
     internal class Driver
     {

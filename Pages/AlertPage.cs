@@ -1,7 +1,7 @@
-﻿using Homework_21.WebElements;
+﻿using Homework_22.WebElements;
 using OpenQA.Selenium;
 
-namespace Homework_21.Pages
+namespace Homework_22.Pages
 {
     internal class AlertPage : BasePage
     {

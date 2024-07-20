@@ -1,7 +1,7 @@
-﻿using Homework_21.Pages;
-using Homework_21.WebElements;
+﻿using Homework_22.Pages;
+using Homework_22.WebElements;
 
-namespace Homework_21.Tests
+namespace Homework_22.Tests
 {
     internal class AlertPageTest : BaseTest
     {
